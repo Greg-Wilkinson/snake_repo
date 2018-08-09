@@ -8,49 +8,42 @@ class Player:
     updateCountMax = 2
     updateCount = 0
 
-    def __init__(self, length):
-        self.length = length
-        for i in range(0, 2000):
-            self.x.append(-100)
-            self.y.append(-100)
-
+    def __init__(self):
+        self.length = 3
         # initial positions, no collision.
-        self.x[1] = 1 * 50
-        self.x[2] = 2 * 50
+        self.x = [2*self.step, self.step, 0]
+        self.y = [0, 0, 0]
 
     def update(self):
-
         self.updateCount = self.updateCount + 1
         if self.updateCount > self.updateCountMax:
+            head = self.positions[0]
+            if self.direction == "UP":
+                new_pos = [head[0] + self.step, head[1]]
+            elif self.direction == "DOWN":
+                new_pos = [head[0] - self.step, head[1]]
+            elif self.direction == "LEFT":
+                new_pos = [head[0], head[1] - self.step]
+            elif self.direction == "RIGHT":
+                new_pos = [head[0], head[1] + self.step]
 
-            # update previous positions
-            for i in range(self.length - 1, 0, -1):
-                self.x[i] = self.x[i - 1]
-                self.y[i] = self.y[i - 1]
-
-            # update position of head of snake
-            if self.direction == 0:
-                self.x[0] = self.x[0] + self.step
-            if self.direction == 1:
-                self.x[0] = self.x[0] - self.step
-            if self.direction == 2:
-                self.y[0] = self.y[0] - self.step
-            if self.direction == 3:
-                self.y[0] = self.y[0] + self.step
-
-            self.updateCount = 0
+            self.x = self.x[:-1]
+            self.y = self.y[:-1]
+            self.x = [new_pos[0]] + self.y
+            self.y = [new_pos[1]] + self.x
+        return
 
     def moveRight(self):
-        self.direction = 0
+        self.direction = "RIGHT"
 
     def moveLeft(self):
-        self.direction = 1
+        self.direction = "LEFT"
 
     def moveUp(self):
-        self.direction = 2
+        self.direction = "UP"
 
     def moveDown(self):
-        self.direction = 3
+        self.direction = "DOWN"
 
     def draw(self, surface, image):
         for i in range(0, self.length):

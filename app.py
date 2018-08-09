@@ -20,7 +20,7 @@ class App:
         self._apple_surf = None
         # self._wall_surf = None
         self.game = Game()
-        self.player = Player(3)
+        self.player = Player
         self.apple = Apple(5, 5)
         # self.wall = Wall
 
@@ -39,17 +39,17 @@ class App:
             self._running = False
 
     def on_loop(self):
-        self.player.update()
+        self.player.update
 
         # does snake eat apple?
-        for i in range(0, self.player.length):
-            if self.game.isCollision(self.apple.x, self.apple.y, self.player.x[i], self.player.y[i], 0):
+        for i in range(1, self.player.length - 1):
+            if self.game.isCollision(self.apple.x, self.apple.y, self.player.x[i], self.player.y[i], 40):
                 self.apple.x = randint(2, 9) * 50
                 self.apple.y = randint(2, 9) * 50
                 self.player.length = self.player.length + 1
 
         # does snake collide with itself?
-        for i in range(2, self.player.length):
+        for i in range(1, self.player.length - 1):
             if self.game.isCollision(self.player.x[0], self.player.y[0], self.player.x[i], self.player.y[i], 40):
                 print("You lose! Collision: ")
                 print("x[0] (" + str(self.player.x[0]) + "," + str(self.player.y[0]) + ")")
