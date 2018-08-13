@@ -1,7 +1,8 @@
 class Player:
-    x = [0]
-    y = [0]
+
     step = 50
+    x = [2*step, step, 0]
+    y = [0, 0, 0]
     direction = 0
     length = 3
 
@@ -9,10 +10,10 @@ class Player:
     updateCount = 0
 
     def __init__(self):
-        self.length = 3
+        # pass
+        # self.length = 3
         # initial positions, no collision.
-        self.x = [2*self.step, self.step, 0]
-        self.y = [0, 0, 0]
+        self.blah = 1
 
     def update(self):
         self.updateCount = self.updateCount + 1

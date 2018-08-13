@@ -42,7 +42,10 @@ class App:
         self.player.update
 
         # does snake eat apple?
+        print("Length = " + str(self.player.length))
         for i in range(1, self.player.length - 1):
+            print(self.player.x)
+
             if self.game.isCollision(self.apple.x, self.apple.y, self.player.x[i], self.player.y[i], 40):
                 self.apple.x = randint(2, 9) * 50
                 self.apple.y = randint(2, 9) * 50
