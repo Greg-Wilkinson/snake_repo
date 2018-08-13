@@ -2,33 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4463c0ae-c0b5-428b-b3b8-0bb3d74c36c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/snakeProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apple.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/block.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myUnitTests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/snakeProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/snakeProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main4.py" beforeDir="false" afterPath="$PROJECT_DIR$/main4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,21 +46,21 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="79">
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -88,7 +68,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="main4.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2243">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -97,16 +89,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="player.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/player.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="102">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="apple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apple.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -115,20 +107,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="main2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
+            <state relative-caret-position="918">
               <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="57" selection-end-column="50" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
-                <marker date="1533681900938" expanded="true" signature="1094:1443" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="snake.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snake.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -137,24 +128,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="board.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/board.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-              <folding>
-                <marker date="1533672655624" expanded="true" signature="20:21" ph="..." />
-                <marker date="1533672655624" expanded="true" signature="20:26" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="69" selection-start-line="69" selection-end-line="72" selection-end-column="31" />
+            <state>
+              <caret column="68" lean-forward="true" selection-start-column="68" selection-end-column="85" />
               <folding>
                 <element signature="e#86#109#0" expanded="true" />
               </folding>
@@ -176,12 +163,13 @@
       <find>.png</find>
       <find>44</find>
       <find>player</find>
-      <find>jpg</find>
       <find>image_surf</find>
       <find>apple_surf</find>
       <find>apple</find>
       <find>apple_s</find>
       <find>wall</find>
+      <find>50</find>
+      <find>jpg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -199,9 +187,10 @@
         <option value="$PROJECT_DIR$/main3.py" />
         <option value="$PROJECT_DIR$/game.py" />
         <option value="$PROJECT_DIR$/apple.py" />
-        <option value="$PROJECT_DIR$/player.py" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/wall.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/player.py" />
+        <option value="$PROJECT_DIR$/main4.py" />
       </list>
     </option>
   </component>
@@ -220,8 +209,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="snakeProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="snakeProject" type="462c0819:PsiDirectoryNode" />
+              <item name="Snake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Snake" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,7 +220,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="snakeProject" sdk-home="C:\Users\WILG\PycharmProjects\IRIS\venv\Scripts\python.exe">
+        <option name="mySdkHome" value="C:\Users\WILG\PycharmProjects\IRIS\venv\Scripts\python.exe" />
+        <option name="myModuleName" value="snakeProject" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main3">
+  <component name="RunManager" selected="Python.main4">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="snakeProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,9 +261,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="snakeProject" />
@@ -284,9 +279,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="main2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="snakeProject" />
@@ -305,9 +297,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="main3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="snakeProject" />
@@ -326,11 +315,8 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="snakeProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,29 +328,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snake.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.snake" />
       <item itemvalue="Python.main2" />
       <item itemvalue="Python.main3" />
       <item itemvalue="Python.app" />
+      <item itemvalue="Python.main4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main4" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.main3" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.main2" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.snake" />
       </list>
     </recent_temporary>
   </component>
@@ -393,46 +376,76 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12241653" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.3291815" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2508897" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2934668" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25054467" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/getch.py">
+    <entry file="file://$PROJECT_DIR$/main3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myUnitTests.py">
+    <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="23" />
+        <state relative-caret-position="340">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="20" />
           <folding>
-            <marker date="1533674616102" expanded="true" signature="114:115" ph="..." />
-            <marker date="1533674616102" expanded="true" signature="114:120" ph="..." />
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="57" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -448,16 +461,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <marker date="1533672655624" expanded="true" signature="20:21" ph="..." />
-            <marker date="1533672655624" expanded="true" signature="20:26" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
+        <state relative-caret-position="1105">
           <caret line="69" selection-start-line="69" selection-end-line="72" selection-end-column="31" />
           <folding>
             <element signature="e#86#109#0" expanded="true" />
@@ -465,28 +474,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main2.py">
+    <entry file="file://$PROJECT_DIR$/main3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="57" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-            <marker date="1533681900938" expanded="true" signature="1094:1443" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -500,6 +491,147 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="57" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/board.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="69" selection-start-line="69" selection-end-line="72" selection-end-column="31" />
+          <folding>
+            <element signature="e#86#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="57" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/board.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="69" selection-start-line="69" selection-end-line="72" selection-end-column="31" />
+          <folding>
+            <element signature="e#86#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myUnitTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wall.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -509,15 +641,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/player.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="57" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/board.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="68" lean-forward="true" selection-start-column="68" selection-end-column="85" />
+          <folding>
+            <element signature="e#86#109#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2243">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

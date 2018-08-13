@@ -83,6 +83,12 @@ class Game:
                 return True
         return False
 
+    def hitWall(self, x, y):
+        if (x < 0) or (x > 20*50) or (y < 0) or (y > 10*50):
+            return True
+        else:
+            return False
+
 
 class App:
     windowWidth = 50*20
@@ -118,8 +124,8 @@ class App:
         # does snake eat apple?
         for i in range(0, self.player.length):
             if self.game.isCollision(self.apple.x, self.apple.y, self.player.x[i], self.player.y[i], 0): # 50):
-                self.apple.x = randint(1, 20) * 50
-                self.apple.y = randint(1, 10) * 50
+                self.apple.x = randint(0, 19) * 50
+                self.apple.y = randint(0, 9) * 50
                 self.player.length = self.player.length + 1
 
         # does snake collide with itself?
@@ -130,6 +136,9 @@ class App:
                 print("x[" + str(i) + "] (" + str(self.player.x[i]) + "," + str(self.player.y[i]) + ")")
                 exit(0)
 
+        if self.game.hitWall(self.player.x[0], self.player.y[0]):
+            print("You hit the wall!")
+            exit(0)
         pass
 
     def on_render(self):
